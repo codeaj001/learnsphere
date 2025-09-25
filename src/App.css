@@ -1,0 +1,28 @@
+.App-header {
+  display: flex;
+  justify-content: space-around;
+  height: 80px;
+  padding-top: 10px;
+}
+
+.App-logo {
+  border-radius: 50%;
+}
+
+.WalletButton {
+  height: 50px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.MenuLinks {
+  list-style-type: none;
+  display: flex;
+  gap: 50px;
+}
+
+.MenuLinks li a {
+  text-decoration: none;
+  color: black;
+  font-style: bold;
+}
